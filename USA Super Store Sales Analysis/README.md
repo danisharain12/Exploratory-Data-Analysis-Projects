@@ -1,6 +1,3 @@
-markdown
-
-Copy
 # Super Store Sales Analysis
 
 ## Overview
